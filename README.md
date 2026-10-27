@@ -2,8 +2,9 @@
 
 A WiFi internet radio built on a **generic ESP32-S3 N16R8** board with a 1.8" colour display, a rotary-encoder knob and a small speaker. It lists stations from the [Radio Browser](https://www.radio-browser.info/) directory and has **Akashvani Kolkata** channels pinned at the top of the India section, so it can play Mahalaya during Durga Puja.
 
-> Add a photo of your finished radio here: `docs/radio.jpg`
->
+##The Photo of my Internet Radio here:
+> ![Alternative text describing the image](images/Esp32-S3-Internet-Radio.png)
+
 > 
 
 ## Features
