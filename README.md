@@ -14,6 +14,15 @@ A WiFi internet radio built on a **generic ESP32-S3 N16R8** board with a 1.8" co
 [View my Internet Radio project post on LinkedIn](https://lnkd.in/p/gAnyhw_Y)
 
 
+> ## MY all videos during making the device:
+> ## Project Media
+
+* 📸 [View LinkedIn Post & Project Showcase](https://lnkd.in)
+* 🎥 [Watch ESP32-S3 Internet Radio Experiment Videos (Google Drive)](https://drive.google.com/drive/folders/1tDvZXrfW4PPWzyrY4iObu4WEBJz-WG8D)
+
+
+
+
 ## Features
 
 - Streams internet radio over WiFi (MP3 / AAC, plus HLS `.m3u8` streams)
