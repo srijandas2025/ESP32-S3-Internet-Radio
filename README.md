@@ -4,7 +4,7 @@ A WiFi internet radio built on a **generic ESP32-S3 N16R8** board with a 1.8" co
 
 > Add a photo of your finished radio here: `docs/radio.jpg`
 >
-> `![Finished radio](docs/radio.jpg)`
+> 
 
 ## Features
 
@@ -163,6 +163,7 @@ RingBuffer_Log: bytesRead(512) > bufferFilled(0)
 - Speaker wires must go to the amp output terminals, not the power rails
 - BCLK, LRC, DIN must not be swapped
 - Breadboard contacts can be loose; press every jumper in
+- it's better to use a different power supply of 5v DC for esp32 s3 dev board and another 5V Power supply for I2S amplifier for clear sound and no glitches.
 
 ## Akashvani channels
 
@@ -174,8 +175,4 @@ The Akashvani stream links came from the public list at `github.com/codito/akash
 - Station directory: [Radio Browser](https://www.radio-browser.info/)
 - Display: Adafruit GFX and ST7735 libraries
 - Akashvani stream list: [codito/akashvani](https://github.com/codito/akashvani)
-- Original idea and base design: add the name of the video/channel and a link here (see the note below)
 
-## License
-
-Choose a license for your own work (MIT is a common choice), add a `LICENSE` file, and write it here.
