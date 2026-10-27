@@ -6,7 +6,13 @@ A WiFi internet radio built on a **generic ESP32-S3 N16R8** board with a 1.8" co
 >![ESP32-S3 Internet Radio](Esp32%20S3%20Internet%20Radio.png)
 
 
+
+
+>
 > 
+## The Working video of this FM Radio link  :
+[View my Internet Radio project post on LinkedIn](https://lnkd.in/p/gAnyhw_Y)
+
 
 ## Features
 
